@@ -1,4 +1,4 @@
-# publicly shared 3d printer
+# Publicly shared 3d printers
 
 ## CoreXY
 
