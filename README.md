@@ -17,3 +17,4 @@
 * https://vorondesign.com/voron_switchwire
 * https://vorondesign.com/voron_legacy
 * https://github.com/VzBoT3D/VzBoT-Vz330
+* https://github.com/ducktaperules/Simplicity
