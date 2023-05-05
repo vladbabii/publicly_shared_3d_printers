@@ -25,5 +25,8 @@
 * https://github.com/VzBoT3D/VzBoT-Vz150
 * https://github.com/ducktaperules/Simplicity
 
+## CrossXY / Small
+* https://github.com/tehmaze/Traquair
+
 ## Compact / Portable
 * https://github.com/eponra/flatpack
