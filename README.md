@@ -21,6 +21,7 @@
 
 ## Corexy / Small (under 180mm)
 * https://github.com/gsl12/Tiny-M
+* https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod 
 * https://vorondesign.com/voron0.2
 * https://github.com/VzBoT3D/VzBoT-Vz150
 * https://github.com/ducktaperules/Simplicity
