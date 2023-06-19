@@ -20,6 +20,7 @@
 
 
 ## Corexy / Small (under 180mm)
+* https://www.printables.com/model/487266-prusa-mini-corexy-beta
 * https://github.com/gsl12/Tiny-M
 * https://github.com/gsl12/Tiny-M/tree/master/usermods/190mm_prusa_mini_mod 
 * https://vorondesign.com/voron0.2
