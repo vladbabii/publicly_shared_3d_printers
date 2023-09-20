@@ -32,3 +32,6 @@
 
 ## Compact / Portable
 * https://github.com/eponra/flatpack
+
+## Bed Slingers / Fast
+* https://github.com/lhndo/LH-Stinger
