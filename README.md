@@ -27,6 +27,9 @@
 * https://github.com/VzBoT3D/VzBoT-Vz150
 * https://github.com/ducktaperules/Simplicity
 
+## CrossXY
+* https://github.com/Pole-Engineering/Crossant-235
+
 ## CrossXY / Small
 * https://github.com/tehmaze/Traquair
 
