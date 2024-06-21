@@ -17,7 +17,10 @@
 * https://github.com/VzBoT3D/VzBoT-Vz330
 * https://github.com/rolohaun/Rook-180
 * https://github.com/rolohaun/Rook
-
+* https://github.com/MSzturc/the100
+* https://github.com/SnakeOilXY/SnakeOil-XY
+* https://github.com/SnakeOilXY/SnakeOilXY-LFR
+* 
 
 ## Corexy / Small (under 180mm)
 * https://www.printables.com/model/487266-prusa-mini-corexy-beta
